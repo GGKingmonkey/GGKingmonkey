@@ -1,5 +1,5 @@
 ## Hi there 👋
-##我的第一个个人资料自述文件
+## 我的第一个个人资料自述文件
 
 <!--
 **GGKingmonkey/GGKingmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
